@@ -1,6 +1,6 @@
 # Athlete Lab (Figma Prototype)
 
-A Figma prototype for a theoretical app, Athlete Lab, which utilizes important UX design principles.
+A Figma prototype for a theoretical app, Athlete Lab, which utilizes important UX design principles. This app would be used by sports teams to manage all aspects of team development, including communication, collaboration, and training.
 
 Click here to access the prototype: [Link](https://www.figma.com/proto/hz5rptl4ItGIYdjirvYHHc/AthleteLab_Prototype--Main---Copy-?node-id=1-2381&p=f&t=zWcyxR2Z4qUt6lds-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2381)
 
